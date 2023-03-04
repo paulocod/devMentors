@@ -5,7 +5,6 @@ interface UserProps {
   name: string
   email: string
   password: string
-  passwordHash: string
 }
 
 export class UserService {
