@@ -6,4 +6,3 @@ comando para buildar image
 ```bash
  DOCKER_BUILDKIT=1 docker build --tag node-devmentors -f docker/prod/Dockerfile . --no-cache
 ```
-teste
